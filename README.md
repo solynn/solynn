@@ -30,12 +30,11 @@
 
 ### About Me
 
-I reverse engineer stuff because I just want to know how it works :)
+Hey, I'm 15 and I've been interested in programming and technology since I was 11. I've always been curious about how games, apps and programs actually work behind the scenes.
 
-Most of my projects are built around the modding community.
-Currently going deeper into cybersecurity.
+I mostly make things based on my own ideas, whether it's something useful, something cool or something that probably didn't need to exist in the first place.
 
-If you've got a project idea, reach out, I'm probably down.
+Usually just experimenting, learning and seeing what I can make.
 
 </div>
 

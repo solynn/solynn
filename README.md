@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&size=32&duration=1&pause=99999&color=FFFFFF&background=000000&center=true&vCenter=true&width=300&height=60&lines=slaskk" />
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&size=32&duration=1&pause=99999&color=FFFFFF&background=000000&center=true&vCenter=true&width=300&height=60&lines=solynn" />
 
 **Developer**
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=slaskk&label=Profile+Views&color=000000&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=solynn&label=Profile+Views&color=000000&style=for-the-badge" />
 
 </div>
 
